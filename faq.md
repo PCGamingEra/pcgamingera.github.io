@@ -28,3 +28,9 @@ Monthly games that we highlight each month.
 
 NSFW channel is for all things that are not safe for work nor for minors. Enter at your own risk.
 If you feel something posted within the channel is crossing the line, you are however free to still contact @ColdSun directly.
+
+### Test FAQ
+<details><summary>CLICK ME</summary>
+<p>  #### MUIMUI RULES
+  </p>
+  </details>
