@@ -4,9 +4,11 @@
 <details><summary> Click to expand </summary>
 <p>If you're experiencing a problem regarding a member and/or anything related to the server, please contact a staff member. </p> </details>
 
+
 ### I have a problem with a staff member, who do I contact?
 
-If you're unable to resolve your issue with a staff member, please contact @ColdSun directly.
+<details><summary> Click to expand </summary>
+  <p>If you're unable to resolve your issue with a staff member, please contact @ColdSun directly. </p> </details>
 
 ### Why is Yas Baned again?
 
@@ -29,8 +31,3 @@ Monthly games that we highlight each month.
 NSFW channel is for all things that are not safe for work nor for minors. Enter at your own risk.
 If you feel something posted within the channel is crossing the line, you are however free to still contact @ColdSun directly.
 
-### What was Yas' latest offense?
-### <details><summary>Offense list</summary>
-<p>  Didn't watch Alita in movies
-  </p>
-  </details>
