@@ -1,14 +1,14 @@
 ## FAQ
 
 ### I have a problem, who do I contact?
-<details><summary> Click to expand </summary>
-<p>If you're experiencing a problem regarding a member and/or anything related to the server, please contact a staff member. </p> </details>
+ 
+If you're experiencing a problem regarding a member and/or anything related to the server, please contact a staff member. 
 
 
 ### I have a problem with a staff member, who do I contact?
 
-<details><summary> Click to expand </summary>
-  <p>If you're unable to resolve your issue with a staff member, please contact @ColdSun directly. </p> </details>
+
+  If you're unable to resolve your issue with a staff member, please contact @ColdSun directly. 
 
 ### Why is Yas Baned again?
 
