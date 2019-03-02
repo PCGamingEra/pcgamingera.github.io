@@ -1,4 +1,5 @@
-##FAQ
+## FAQ
+
 [Q] I have a problem, who do I contact?
 If you're experiencing a problem regarding a member and/or anything related to the server, please contact a staff member.
 
